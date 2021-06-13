@@ -1,2 +1,2 @@
 # Video Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iEBnxtZ7b7I&t/0.jpg)](https://www.youtube.com/watch?v=iEBnxtZ7b7I&t=4s)
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
